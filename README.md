@@ -7,7 +7,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/axctbot/botv1
+> git clone https://github.com/Axctbot/axctbotv1
 ```
 
 ## Install the dependencies:
@@ -15,7 +15,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botv1
+> cd axctbotv1
 > bash install.sh
 ```
 
@@ -123,7 +123,7 @@ you've just cloned!!
 |       ✅        |   Broadcast                |
 
 ## Special Thanks to
-* [`axctbot/Baileys`](https://github.com/axctbot/Baileys)
+* [`axctbot/Baileys`](https://github.com/axctbot)
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
@@ -133,5 +133,5 @@ you've just cloned!!
 * [`WhatsApp`](wa.me/62895704959080)
 ### Donate
 * [`Gopay : +6289513837054`]
-* [`Dana : Belum Ada`]
-* [`Pulsa : +6289513837054`]
+* [`Dana   : +6289513837054`]
+* [`Pulsa  : +6289513837054`]
