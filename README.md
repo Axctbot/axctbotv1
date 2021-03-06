@@ -133,7 +133,7 @@ you've just cloned!!
 * [`WhatsApp`](wa.me/62895704959080)
 * [`Instagram`](https://instagram.com/aidil.tipi)
 * [`Instagram`](https://instagram.com/okk.tipi)
-* [`Instagram`](https://youtube.com/c/AidilTipi)
+* [`Youtube`](https://youtube.com/c/AidilTipi)
 ### Donate
 * [`Gopay : +6289513837054`]
 * [`Dana   : +6289513837054`]
